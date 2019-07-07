@@ -12,9 +12,9 @@
             b += a + value + (4);
             a = b - value*2 ;
             if (b > a) {
-                System.out.println("good");
+                System.out.println("very good");
             } else {
-                System.out.println("bad");
+                System.out.println("very bad");
             }
         }
     }
